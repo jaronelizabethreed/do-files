@@ -54,3 +54,5 @@ tab `X'
 
 //Collapse to the household level
 collapse (max) $implement $num_implement, by(hhid)
+
+change
